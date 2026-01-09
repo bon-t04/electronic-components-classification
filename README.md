@@ -1,7 +1,8 @@
 # electronic-components-classification
 AI project (team project)
 
-- Type: Team project (4 members) for module IT1244 (NUS)
+- **Type**: Team project (4 members) for module IT1244 (NUS)
+- **Objective:** Analyse and classify 32 electronic components from image data
 - Tools: Python, Jupyter Notebook, Pandas, NumPy, Scikit-learn, Matplotlib, TensorFlow, PyTorch
 - My role:
   - Preprocessed image data by extracting objects and restructuring datasets for model training
