@@ -2,7 +2,7 @@
 AI project (team project)
 
 - Type: Team project (4 members) for module IT1244 (NUS)
-- Tools: python, jupyter, Pandas, Numpy, Scikit-learn, Matplotlib, tensorflow, pytorch, transformers
+- Tools: Python, Jupyter Notebook, Pandas, NumPy, Scikit-learn, Matplotlib, TensorFlow, PyTorch, Transformers
 - My role:
   - Preprocessed image data by extracting objects and restructuring datasets for model training
   - Trained EfficientNet models using pre-trained weights and 3-fold cross-validation
