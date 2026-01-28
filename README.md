@@ -10,6 +10,6 @@ AI project (team project)
   - Evaluated model performance and optimised training pipeline
 
 # Files
-- 📘 Notebook (HTML): project_IT1244.html
-- 💻 Notebook (ipynb): project_IT1244.ipynb
-- 📄 Report (PDF): Project Report.pdf
+- Notebook (HTML): project_IT1244.html
+- Notebook (ipynb): project_IT1244.ipynb
+- Report (PDF): Project Report.pdf
